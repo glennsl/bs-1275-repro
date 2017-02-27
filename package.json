@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "bsb -make-world"
+  },
+  "dependencies": {
+    "bs-platform": "bloomberg/bucklescript"
+  }
+}

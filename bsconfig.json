@@ -1,0 +1,5 @@
+{
+  "name" : "bs-1275-repro",
+  "sources": ["src"],
+  "bs-dependencies": ["bs-1275-dep"]
+}
