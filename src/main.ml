@@ -1,1 +1,1 @@
-module Alias = Dep
+module A = Alias

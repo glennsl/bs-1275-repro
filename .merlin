@@ -3,8 +3,6 @@ FLG -ppx /home/glennsl/dev.local/bs-1275-repro/node_modules/bs-platform/bin/bspp
 S /home/glennsl/dev.local/bs-1275-repro/node_modules/bs-platform/lib/ocaml
 B /home/glennsl/dev.local/bs-1275-repro/node_modules/bs-platform/lib/ocaml
 FLG -nostdlib -color always -w -40+6+7+27+32..39+44+45
-S /home/glennsl/dev.local/bs-1275-repro/node_modules/bs-1275-dep/lib/ocaml
-B /home/glennsl/dev.local/bs-1275-repro/node_modules/bs-1275-dep/lib/ocaml
 S src
 B lib/bs/src
 ####BSB GENERATED: NO EDIT}
